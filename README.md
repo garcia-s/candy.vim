@@ -1,1 +1,1 @@
-# candy.vim
+# I Like Pink
